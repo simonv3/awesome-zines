@@ -22,3 +22,4 @@ This is a curated list of regularly publishing zines &amp; small press publicati
 ## Libraries
 
 * [The Anarchist Library](http://theanarchistlibrary.org/special/about). theanarchistlibrary.org is (despite its name) an archive focusing on anarchism, anarchist texts, and texts of interest for anarchists. 
+* [Digital Fanzine Preservation Society](http://archive.org/details/digitalfanzinepreservationsociety?and[]=collection%3A%22digitalfanzinepreservationsociety%22). A collection of hardcore and punk music fanzines remastered and collected on the DFPS blogspot by Nagus from 2009-2011. 
