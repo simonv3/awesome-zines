@@ -18,3 +18,7 @@ This is a curated list of regularly publishing zines &amp; small press publicati
 ## Presses
 
 * [Pioneers Press](http://pioneerspress.com/). Launched in 2012, Pioneer Press focuses on survival and sustainability from farm to city.
+
+## Libraries
+
+* [The Anarchist Library](http://theanarchistlibrary.org/special/about). theanarchistlibrary.org is (despite its name) an archive focusing on anarchism, anarchist texts, and texts of interest for anarchists. 
